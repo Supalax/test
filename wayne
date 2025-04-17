@@ -1,1 +1,2 @@
-getgenv().myGlobalVariable
+getgenv().myGlobalVariable = "Hello"
+print(getgenv().myGlobalVariable)
