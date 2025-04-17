@@ -1,1 +1,1 @@
-{"score": 100, "level": 5}
+print("SCOREEE")
