@@ -1,4 +1,4 @@
 _G.luckEggData = {
-    ["Unidentified"] = "dce2fe4d-1c90-4a70-ab22-28e5d890020b",
-    ["Rainbow"] = "25b63afe-7fa1-46e1-ac6f-bb0ce451c408",
+    ["Unidentified"] = "31debb6d-553a-44b9-b6fd-b6ccb16463c8",
+    ["Rainbow"] = "22c69b7c-9ffe-40c4-ad0b-a8f61fae2f24",
 }
