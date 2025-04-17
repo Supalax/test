@@ -1,1 +1,1 @@
-_G.luckEggData = {}
+_G.luckEggData = {"\ud83c\udf40 x25 Hell Egg Spawned! \ud83c\udf40": "37a5e9fd-8d9f-4b7f-8ee9-a55c662674c8", "\ud83c\udf40 x25 Rainbow Egg Spawned! \ud83c\udf40": "cfb38e19-89ce-4bc0-9332-60051ec6ea56", "\ud83c\udf40 x25 Spikey Egg Spawned! \ud83c\udf40": "f33ca95c-7551-44c8-b930-b1ce3eb8d80b", "\ud83c\udf40 x25 Lunar Egg Spawned! \ud83c\udf40": "25b63afe-7fa1-46e1-ac6f-bb0ce451c408"}
