@@ -1,1 +1,1 @@
-_G.luckEggData = {"\ud83c\udf40 x25 Void Egg Spawned! \ud83c\udf40": "e0809833-712f-4dae-9d5a-53e61895dfce", "\ud83c\udf40 x25 Lunar Egg Spawned! \ud83c\udf40": "22ba76e0-4fe5-489a-bd7d-997955f03589"}
+getgenv().myGlobalVariable = {}
