@@ -1,1 +1,1 @@
-getgenv().myGlobalVariable = {"\ud83c\udf40 x25 Void Egg Spawned! \ud83c\udf40": "4bc510ea-f3e8-47b2-99a3-0d8ae6e5515a", "\ud83c\udf40 x25 EGG SPAWNED \ud83c\udf40": "7421bfbd-b609-4bab-815f-9be323312968"}
+_G.luckEggData = {}
