@@ -1,1 +1,1 @@
-getgenv().myGlobalVariable = {"\ud83c\udf40 x25 Lunar Egg Spawned! \ud83c\udf40": "85e197d5-d594-407e-89ad-0475cb29c7d5", "\ud83c\udf40 x25 Magma Egg Spawned! \ud83c\udf40": "dc312dc8-8182-4d3c-a0c8-2e870bdab057", "\ud83c\udf40 x25 Crystal Egg Spawned! \ud83c\udf40": "ff11c3f9-5d1a-44ac-864f-e0007d79a85f"}
+getgenv().myGlobalVariable = {"\ud83c\udf40 x25 Lunar Egg Spawned! \ud83c\udf40": "079c940f-b0b9-49e9-a773-a7c62ce2e1a5"}
