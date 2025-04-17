@@ -1,1 +1,1 @@
-print("SCOREEE")
+This is the updated content of t.lua.
