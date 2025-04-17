@@ -1,1 +1,1 @@
-getgenv().myGlobalVariable = {"Magma": "17f08c97-1447-414c-a3ab-549c20587fc4", "Nightmare": "10fd7c33-afa5-45e7-9a17-5bad1c6b39ad", "Lunar": "bf192fd3-eb6c-4beb-a165-669d3c327707", "Spikey": "2b8e2307-b92d-49d3-8dc9-33cf8dcd9b47", "Hell": "61b21680-ce34-4b75-9c1c-06cf439f173d", "Crystal": "7d194cb4-d5a1-406b-b852-584371f3dbd8", "Rainbow": "cb89511d-014d-4b8a-829b-50b4a3f938f4", "Void": "6856d9fc-a798-4e2e-bd47-17a500470fee"}
+getgenv().myGlobalVariable = {}
