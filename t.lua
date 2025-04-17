@@ -1,11 +1,1 @@
-_G.luckEggData = {
-    ["🍀 x25 EGG SPAWNED 🍀"] = "3060f22d-978a-4cc0-aace-7bcc393be718",
-    ["🍀 x25 Crystal Egg Spawned! 🍀"] = "4a29f289-7e39-46bc-8692-84237485c189",
-    ["🍀 x25 Spikey Egg Spawned! 🍀"] = "02a6be85-823c-484b-9815-58aa5aa15c46",
-    ["🍀 x25 Nightmare Egg Spawned! 🍀"] = "d5c8c7a5-b4f7-4024-89ae-15f09eb41319",
-    ["🍀 x25 Rainbow Egg Spawned! 🍀"] = "8d85b27d-17d1-447f-82e9-5d885a055a4b",
-    ["🍀 x25 Magma Egg Spawned! 🍀"] = "b8156921-a0f6-43a9-8333-8389e5ff7058",
-    ["🍀 x25 Void Egg Spawned! 🍀"] = "8b6303d3-111b-4f1f-a4b4-46cd2f647391",
-    ["🍀 x25 Hell Egg Spawned! 🍀"] = "d35594a0-e175-4c91-9259-bcab10e09cfd",
-    ["🍀 x25 Lunar Egg Spawned! 🍀"] = "d5c8c7a5-b4f7-4024-89ae-15f09eb41319",
-}
+_G.luckEggData = {"\ud83c\udf40 x25 Spikey Egg Spawned! \ud83c\udf40": "f37f064e-36b2-4671-bca5-a7d967611935", "\ud83c\udf40 x25 Crystal Egg Spawned! \ud83c\udf40": "a4be2652-ec0e-46ba-8947-c14f74e71375", "\ud83c\udf40 x25 Void Egg Spawned! \ud83c\udf40": "82ccc29c-18c7-46d2-989f-3e1e89e0adb8", "\ud83c\udf40 x25 Lunar Egg Spawned! \ud83c\udf40": "efb427bd-4d93-49d6-9dbd-cb4cea504fe8", "\ud83c\udf40 x25 Magma Egg Spawned! \ud83c\udf40": "c832c623-eaa0-4008-8be2-8d09738c9758", "\ud83c\udf40 x25 EGG SPAWNED \ud83c\udf40": "889d73dd-7469-4309-9737-656053b80a16", "\ud83c\udf40 x25 Rainbow Egg Spawned! \ud83c\udf40": "00312aa6-7342-4451-948f-db323b12b3ff", "\ud83c\udf40 x25 Nightmare Egg Spawned! \ud83c\udf40": "5e619bdc-7fa0-49b4-8ecf-3abb981ddbd8", "\ud83c\udf40 x25 Hell Egg Spawned! \ud83c\udf40": "95bc8033-6cf7-431d-a689-e9b4ace6bc7c", "\u2728 ROYAL CHEST SPAWNED \u2728": "8ae2afd9-87c2-4ac2-ab25-299b9f7d155b"}
